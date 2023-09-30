@@ -1,0 +1,10 @@
+
+
+
+Seat_comfort: 				0.047860
+Inflight_entertainment: 		0.053983
+Class: 					0.097405
+Type_of_Travel: 			0.099629
+Inflight_wifi_service: 			0.145169
+Online_boarding: 			0.163768
+

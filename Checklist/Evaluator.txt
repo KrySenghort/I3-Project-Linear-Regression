@@ -1,0 +1,11 @@
+1. Project Description and Objectives => 
+2. Dataset and Variables Description  => 
+3. Data Preparation 		      => Samarth & Rothana
+
+4. Exploratory Data Analysis(EDA)     => Samart 
+
+5. Feature Engineering		      => 
+
+6. Model Selection                    =>
+
+7. Decision Making                    => 
